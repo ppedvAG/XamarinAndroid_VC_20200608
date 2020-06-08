@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">XamarinAndroid_20200608</string>
+    <string name="action_settings">Settings</string>
+	<string name="main_txtV_Anweisung">Bitte gib eine Zahl ein</string>
+	<string name="height">Höhe: </string>
+	<string name="width">Breite: </string>
+	<string name="go">Lade Bild</string>
+</resources>
